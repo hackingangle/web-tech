@@ -2,11 +2,13 @@
 
 ![logo](./assets/images/logo.png)
 
-## 后端开发
+## 后端开发 
 
 ### php基础知识
 
 ### PHP性能优化
+
+### PHP设计模式
 
 ### php框架
 
