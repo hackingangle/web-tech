@@ -1,10 +1,7 @@
 <?php
 namespace Pkg2;
 
-class Demo {
-
-}
-
-function hi() {
-    echo 'hi,I`m from 2';
+function hi() 
+{
+    echo "hi,I`m from Pkg2.\n";
 }
